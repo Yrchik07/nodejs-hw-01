@@ -12,12 +12,6 @@
     "job": "Internal Interactions Planner"
   },
   {
-    "name": "Mandy Jaskolski",
-    "phone": "1-988-675-1239 x3807",
-    "email": "Kayleigh98@hotmail.com",
-    "job": "Product Assurance Analyst"
-  },
-  {
     "name": "April Wilderman",
     "phone": "(342) 338-7571 x6877",
     "email": "Amani_Blick@hotmail.com",
@@ -46,5 +40,17 @@
     "phone": "(543) 632-6958 x606",
     "email": "Edna_Leannon78@yahoo.com",
     "job": "Investor Accounts Manager"
+  },
+  {
+    "name": "Eddie Yost",
+    "phone": "(584) 705-6911 x670",
+    "email": "Camren42@yahoo.com",
+    "job": "Central Creative Facilitator"
+  },
+  {
+    "name": "Gilbert Raynor",
+    "phone": "1-251-568-7188 x7810",
+    "email": "Sadie52@hotmail.com",
+    "job": "Principal Security Liaison"
   }
 ]
